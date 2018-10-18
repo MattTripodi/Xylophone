@@ -19,6 +19,7 @@
 		EEDBD5DF2176E73D0012D3DC /* note6.wav in Resources */ = {isa = PBXBuildFile; fileRef = EEDBD5D82176E73D0012D3DC /* note6.wav */; };
 		EEDBD5E02176E73D0012D3DC /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = EEDBD5D92176E73D0012D3DC /* note1.wav */; };
 		EEDBD5E12176E73D0012D3DC /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = EEDBD5DA2176E73D0012D3DC /* note2.wav */; };
+		EEDBD5E3217833040012D3DC /* RoundedButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEDBD5E2217833040012D3DC /* RoundedButtons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		EEDBD5D82176E73D0012D3DC /* note6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note6.wav; path = Xylophone/note6.wav; sourceTree = SOURCE_ROOT; };
 		EEDBD5D92176E73D0012D3DC /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note1.wav; path = Xylophone/note1.wav; sourceTree = SOURCE_ROOT; };
 		EEDBD5DA2176E73D0012D3DC /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note2.wav; path = Xylophone/note2.wav; sourceTree = SOURCE_ROOT; };
+		EEDBD5E2217833040012D3DC /* RoundedButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButtons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 			children = (
 				EEDBD5C12170D4C10012D3DC /* AppDelegate.swift */,
 				EEDBD5C32170D4C10012D3DC /* ViewController.swift */,
+				EEDBD5E2217833040012D3DC /* RoundedButtons.swift */,
 				EEDBD5C52170D4C10012D3DC /* Main.storyboard */,
 				EEDBD5C82170D4C40012D3DC /* Assets.xcassets */,
 				EEDBD5CA2170D4C40012D3DC /* LaunchScreen.storyboard */,
@@ -172,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EEDBD5C42170D4C10012D3DC /* ViewController.swift in Sources */,
+				EEDBD5E3217833040012D3DC /* RoundedButtons.swift in Sources */,
 				EEDBD5C22170D4C10012D3DC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
